@@ -2,19 +2,19 @@
     {
       "id": 1,
       "name": "Premium",
-      "features": ["In-depth Audit", "GBP Management", "GBP Posts (30)"],
+      "features": ["In-depth Audit", "GBP Management", "GBP Posts (30)","under develop"],
       "price": "$999"
     },
     {
       "id": 2,
       "name": "Standard",
-      "features": ["In-depth Audit", "GBP Management", "GBP Posts (30)"],
+      "features": ["In-depth Audit", "GBP Management", "GBP Posts (30)","under develop"],
       "price": "750"
     },
     {
       "id": 3,
       "name": "Basic",
-      "features": ["In-depth Audit", "GBP Management", "GBP Posts (30)"],
+      "features": ["In-depth Audit", "GBP Management", "GBP Posts (30)","under develop"],
       "price": "350"
     }
   ]
