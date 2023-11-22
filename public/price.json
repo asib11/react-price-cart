@@ -1,20 +1,20 @@
 [
     {
       "id": 1,
-      "name": "FitLife Gym",
+      "name": "Premium",
       "features": ["Cardio equipment", "Strength training", "Group classes"],
-      "price": "50"
+      "price": "$999"
     },
     {
       "id": 2,
-      "name": "FlexFit Center",
+      "name": "Standard",
       "features": ["Free weights", "Personal trainers", "Sauna"],
-      "price": "60"
+      "price": "750"
     },
     {
       "id": 3,
-      "name": "CorePower Gym",
+      "name": "Basic",
       "features": ["Hot yoga", "Functional training", "Cycling classes"],
-      "price": "55"
+      "price": "350"
     }
   ]
