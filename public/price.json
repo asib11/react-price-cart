@@ -2,19 +2,19 @@
     {
       "id": 1,
       "name": "Premium",
-      "features": ["Cardio equipment", "Strength training", "Group classes"],
+      "features": ["In-depth Audit", "GBP Management", "GBP Posts (30)"],
       "price": "$999"
     },
     {
       "id": 2,
       "name": "Standard",
-      "features": ["Free weights", "Personal trainers", "Sauna"],
+      "features": ["In-depth Audit", "GBP Management", "GBP Posts (30)"],
       "price": "750"
     },
     {
       "id": 3,
       "name": "Basic",
-      "features": ["Hot yoga", "Functional training", "Cycling classes"],
+      "features": ["In-depth Audit", "GBP Management", "GBP Posts (30)"],
       "price": "350"
     }
   ]
